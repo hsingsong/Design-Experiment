@@ -1,2 +1,2 @@
 # Design Experiment
-[Link to project](https://github.com/users/hsingsong/projects/1)
+[Link to projects](https://github.com/hsingsong/Design-Experiment/projects)
